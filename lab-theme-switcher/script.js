@@ -15,6 +15,10 @@ const themes = [
   {
     name: "ocean",
     message: "Ocean theme activated! Calm and refreshing."
+  },
+  {
+    name: "rose",
+    message: "Rose theme activated! Romantic and pretty."
   }
 ];
 
